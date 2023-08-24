@@ -7,7 +7,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-green">
 </div></br>
-
+<br><div style = "text-align: center">
+  Now Studying
+</div>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-gray">
+</div></br>
 
 
 SNS ?
