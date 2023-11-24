@@ -4,18 +4,11 @@
 </div>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-red">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-green">
 </div></br>
-<br><div style = "text-align: center">
-  Now Studying
-</div>
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-gray">
-</div></br>
 
-
-SNS ?
+SNS
 <br>
    <a href="https://blog.naver.com/mshan2923" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/blog-gray"></a>
 </br>
